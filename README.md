@@ -1,4 +1,4 @@
-# Stock-Market-Signal
+# Stock-Market-Signal v3.1
 
 Learning yfinance, pandas, numpy, pandas, plotly.graph_objects, matplotlib.pyplot:
 
