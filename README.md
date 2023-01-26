@@ -4,7 +4,7 @@ Learning yfinance, pandas, numpy, pandas, plotly.graph_objects, matplotlib.pyplo
 
 - Ticker: Ativo
 - Assets: Espólio
-- Dividends
+- Dividends: dividendos
 - Static graph: Gráfico Estático
 - Dynamic Chart: Gráfico Dinâmico
 - Calculate price: Calcular preço
